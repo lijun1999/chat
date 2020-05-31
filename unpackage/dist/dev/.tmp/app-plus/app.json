@@ -1,0 +1,25 @@
+{
+  "pages": [
+    "pages/userdetail/userdetail",
+    "pages/login/login",
+    "pages/signup/signup",
+    "pages/index/index",
+    "pages/search/search",
+    "pages/addfriend/addfriend"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "chat",
+  "compilerVersion": "2.4.2",
+  "usingComponents": {}
+}
